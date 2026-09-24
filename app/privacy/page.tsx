@@ -17,7 +17,7 @@ export default function PrivacyPolicy() {
             ← Back to home
           </a>
           <h1 className="dn-legal-title">Privacy Policy</h1>
-          <p className="dn-legal-updated">Last updated: 30 August 2026</p>
+          <p className="dn-legal-updated">Last updated: 23 September 2026</p>
 
           <p>
             This policy explains how Droidnode Ltd (&quot;Droidnode&quot;,
@@ -102,14 +102,75 @@ export default function PrivacyPolicy() {
           <h2>Our Android apps</h2>
           <p>
             This policy covers Droidnode&apos;s website and company-level
-            data practices. As we publish individual Android apps, each
-            app&apos;s Google Play Store listing (and, where applicable, an
-            in-app privacy notice) will describe any additional data that
-            app collects — such as device permissions, in-app analytics, or
-            crash reporting — and how it is used. Where an app does not
-            publish its own separate policy, this policy applies to it in
-            full.
+            data practices. As we publish individual Android apps, each app
+            has its own section below setting out the data that app
+            handles, such as device permissions, analytics, or crash
+            reporting. Where an app does not have its own section, this
+            policy applies to it in full.
           </p>
+
+          <h2>Painter&apos;s Toolkit</h2>
+          <p>
+            Painter&apos;s Toolkit is an Android app for measuring colours
+            and matching paint. It is designed to work on your device
+            without collecting your personal data. Droidnode Ltd is the
+            data controller for any personal data described in this
+            section.
+          </p>
+          <p>How the app uses your device:</p>
+          <ul>
+            <li>
+              <strong>Camera:</strong> the app uses your camera to sample
+              colours live. Camera images are processed on your device in
+              real time. They are not saved, and they are never uploaded or
+              sent to us or to anyone else.
+            </li>
+            <li>
+              <strong>Photos:</strong> if you choose to sample a colour from
+              a photo, you pick that photo using Android&apos;s built-in
+              photo picker. The app receives only the single photo you
+              select, processes it on your device, and does not upload it.
+              It cannot see the rest of your photo library.
+            </li>
+            <li>
+              <strong>Saved colours and settings:</strong> your saved
+              colours, palettes, and your light or dark theme choice are
+              stored only on your device. We do not receive them. They are
+              removed if you uninstall the app or clear its storage.
+            </li>
+          </ul>
+          <p>
+            The app has no user accounts and does not include advertising,
+            analytics, or crash reporting. We do not collect your location,
+            contacts, or any other personal data through the app.
+          </p>
+
+          <p>
+            <strong>Purchases.</strong> Some features are unlocked by a
+            one-off purchase or a subscription, processed by Google Play.
+            Payment is handled entirely by Google, and we do not receive
+            your card or payment details. Google tells the app whether your
+            purchase is active so that the features can be unlocked, and
+            Google&apos;s own privacy policy governs how it handles your
+            payment data. You can manage or cancel a subscription in Google
+            Play at any time.
+          </p>
+          <p>
+            <strong>Contacting us from the app.</strong> The app includes
+            options to send feedback or a bug report by email. These open
+            your own email app with a draft addressed to us, which includes
+            the app version, your Android version, and your device model to
+            help us diagnose problems. Nothing is sent unless you choose to
+            send the email, and any email we receive is handled as
+            described in this policy.
+          </p>
+          <p>
+            <strong>Deleting your data.</strong> We hold no data about you
+            from your use of the app, so there is nothing for us to delete.
+            To remove everything the app stores on your device, uninstall
+            it or clear its storage in your Android settings.
+          </p>
+          <p>Painter&apos;s Toolkit is not directed at children.</p>
 
           <h2>Your rights</h2>
           <p>Under UK GDPR, you have the right to:</p>
