@@ -13,7 +13,7 @@ export default function Home() {
           <h1 className="dn-hero-title">Droidnode</h1>
           <p className="dn-hero-body">
             We&apos;re a UK-based studio building Android apps. This site is
-            just getting started — our apps will appear below as they
+            just getting started, and our apps will appear below as they
             launch.
           </p>
         </div>

@@ -205,20 +205,38 @@ body {
   border-bottom: 1px solid var(--dn-line);
 }
 
-.dn-products-empty {
+.dn-app-card {
   margin-top: 32px;
-  border: 1.5px dashed var(--dn-line-2);
+  border: 1px solid var(--dn-line-2);
   border-radius: 12px;
-  padding: 48px 32px;
-  text-align: center;
+  padding: 28px 32px;
+  background: var(--dn-paper);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
 
-.dn-products-empty p {
+.dn-app-status {
   font-family: var(--dn-font-mono), monospace;
-  font-size: 12px;
-  letter-spacing: 0.06em;
+  font-size: 11px;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--dn-muted);
+}
+
+.dn-app-name {
+  font-family: var(--dn-font-display), sans-serif;
+  font-weight: 600;
+  font-size: 22px;
+  letter-spacing: -0.01em;
+  color: var(--dn-ink);
+  margin: 0;
+}
+
+.dn-app-desc {
+  font-size: 15px;
+  line-height: 1.7;
+  color: var(--dn-ink-2);
   margin: 0;
 }
 

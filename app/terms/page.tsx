@@ -39,8 +39,8 @@ export default function TermsOfUse() {
 
           <h2>Intellectual property</h2>
           <p>
-            Unless otherwise stated, the content on this website — including
-            text, graphics, and the Droidnode name and logo — is owned by or
+            Unless otherwise stated, the content on this website (including
+            text, graphics, and the Droidnode name and logo) is owned by or
             licensed to Droidnode Ltd. You may not reproduce or reuse it
             without our prior written permission.
           </p>

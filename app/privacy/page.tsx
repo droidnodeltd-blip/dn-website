@@ -55,7 +55,7 @@ export default function PrivacyPolicy() {
             This website does not have a contact form. If you email us
             using the address published on this site or in our Google Play
             developer listing, we receive whatever personal data you choose
-            to include — typically your name, your email address, and the
+            to include, typically your name, your email address, and the
             content of your message.
           </p>
           <p>
@@ -81,7 +81,7 @@ export default function PrivacyPolicy() {
           </p>
           <ul>
             <li>
-              <strong>Vercel</strong> — to host this website.
+              <strong>Vercel</strong>: to host this website.
             </li>
           </ul>
           <p>

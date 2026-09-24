@@ -25,7 +25,7 @@ const jetbrainsMono = JetBrains_Mono({
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.droidnodeltd.uk"),
   title: {
-    default: "Droidnode — Android App Development",
+    default: "Droidnode: Android App Development",
     template: "%s | Droidnode",
   },
   description:
