@@ -216,14 +216,6 @@ body {
   gap: 10px;
 }
 
-.dn-app-status {
-  font-family: var(--dn-font-mono), monospace;
-  font-size: 11px;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--dn-muted);
-}
-
 .dn-app-name {
   font-family: var(--dn-font-display), sans-serif;
   font-weight: 600;
